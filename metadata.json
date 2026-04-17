@@ -1,0 +1,8 @@
+{
+  "name": "Zepsecure - AI Security Solutions",
+  "description": "A high-end security technology landing page featuring government and home-level AI security solutions like bodycams, ANPR, and smart home automation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
