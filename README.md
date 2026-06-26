@@ -1,20 +1,72 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🛡️ ZepSecure
 
-# Run and deploy your AI Studio app
+> **🇮🇳 India's First AI-Powered Security Ecosystem for Law Enforcement & Smart Homes**
 
-This contains everything you need to run your app locally.
+ZepSecure is an AI-powered security platform built to make surveillance **smarter, faster, and proactive**. From **AI Body Cameras** for police officers to **Smart Home Automation**, our goal is simple:
 
-View your app in AI Studio: https://ai.studio/apps/c15cfcfd-f835-4a9d-903d-834917bf1477
+> **We don't just record crimes. We help prevent them.**
 
-## Run Locally
+🌐 **Live Demo:** https://zepsecure.vercel.app
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 What makes ZepSecure different?
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 👮 AI Powered Body Cameras
+
+* Real-time Face Recognition
+* Criminal Detection
+* Weapon & Object Detection
+* ANPR (Number Plate Recognition)
+* Live AI Alerts
+
+### 🛡️ KAVACH AI
+
+Upload just **one image** of a suspect and KAVACH AI automatically searches across all connected ZepSecure cameras, tracks the suspect's movement, and highlights every detected location on the map.
+
+### 📄 Tamper-Proof Investigation
+
+Every FIR comes with a **QR Code** that securely links to the complete investigation timeline, helping reduce evidence tampering and improving transparency.
+
+### ⚡ One-Tap Secure Vault
+
+Access authorized criminal records, FIR details, vehicle information, and investigation documents from a single secure dashboard.
+
+### 🏠 Smart Home Security
+
+Turn your existing CCTV cameras into **AI-powered security cameras** with:
+
+* Motion Detection
+* Intrusion Alerts
+* Face Recognition
+* Remote Monitoring
+
+### 💡 Smart Home + Energy AI
+
+Control lights and switches remotely, monitor room temperature, and let **Energy AI** analyze electricity usage to help reduce power consumption.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** Next.js • React • Tailwind CSS • TypeScript
+
+**Backend:** Node.js • Express • PostgreSQL • Firebase • Supabase
+
+**AI:** YOLOv8 • InsightFace • OpenCV • EasyOCR • TensorFlow
+
+**Hardware:** ESP32 • ESP8266 • RFID • IoT Sensors
+
+---
+
+## 🌟 Vision
+
+Build a **Made in India 🇮🇳** AI security ecosystem that empowers law enforcement, protects homes, and transforms traditional surveillance into intelligent, proactive security.
+
+---
+
+### 👨‍💻 Team NeuroStack
+
+Built with ❤️ by Team **NeuroStack**
+
+⭐ If you like this project, don't forget to star the repository!
